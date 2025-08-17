@@ -1,0 +1,2 @@
+# registrationcheck
+ตรวจสอบสถานะลงทะเบียน
